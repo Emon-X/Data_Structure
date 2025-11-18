@@ -1,0 +1,1 @@
+{"name":"Local: E_Bertown_roads","url":"/home/emon-x/Code/Data_Structure/Bridge_Finding/E_Bertown_roads.cpp","tests":[{"id":1763431184454,"input":"6 8\n1 2\n2 3\n1 3\n4 5\n4 6\n5 6\n2 4\n3 5\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/emon-x/Code/Data_Structure/Bridge_Finding/E_Bertown_roads.cpp","group":"local","local":true}
